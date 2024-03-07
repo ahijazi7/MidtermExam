@@ -4,9 +4,9 @@ public class quraticsolver {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		int a = 12;
-		int b = 31;
-		int c = 7;
+		int a = 9;
+		int b = 8;
+		int c = 3;
 
 
 		if (b*b - 4*a*c <0)
